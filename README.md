@@ -5,3 +5,6 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 100%)
 
 11 September 2024
 Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
+
+12 September 2024
+Belajar Dasar Git dengan GitHub. (Progres 39%)
